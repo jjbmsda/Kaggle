@@ -1,3 +1,3 @@
-# keggle
+# kaggle
 
-keggle 과제 수행한 소스입니다.
+kaggle 과제 수행한 소스입니다.
