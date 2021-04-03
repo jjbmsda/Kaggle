@@ -1,3 +1,3 @@
-# kaggle
+# Kaggle
 
-kaggle 실습 소스입니다.
+Kaggle 실습 소스입니다.
